@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { NavLink } from 'react-router-dom';
-import { CircleAlert, Check, Info } from 'lucide-react';
+import { Check, Info } from 'lucide-react';
 
 const PricingPage = () => {
   return (
